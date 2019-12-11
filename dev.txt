@@ -3,3 +3,4 @@ sadfkjasldkfjas
 fasdlfjas
 fasjfjaks;f
 asdfjkas;dfkas
+我新增一行文件内容，用于处理冲突
