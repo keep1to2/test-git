@@ -3,3 +3,4 @@ sadfkjasldkfjas
 fasdlfjas
 fasjfjaks;f
 asdfjkas;dfkas
+新增一行master文件的内容，用于解决分支冲突测试
